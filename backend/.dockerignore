@@ -1,0 +1,8 @@
+target
+.git
+.gitignore
+.env
+.env.*
+Dockerfile
+mvnw.cmd
+README.md

@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "app.jwt.secret",
+      "type": "java.lang.String",
+      "description": "JWT signing secret for token generation and validation."
+    },
+    {
+      "name": "app.jwt.expiration",
+      "type": "java.lang.Long",
+      "description": "JWT expiration in milliseconds."
+    },
+    {
+      "name": "app.upload.dir",
+      "type": "java.lang.String",
+      "description": "Directory path where uploaded files are stored."
+    },
+    {
+      "name": "app.base-url",
+      "type": "java.lang.String",
+      "description": "Public base URL of the backend service."
+    },
+    {
+      "name": "app.frontend-url",
+      "type": "java.lang.String",
+      "description": "Allowed frontend origin URL."
+    }
+  ]
+}

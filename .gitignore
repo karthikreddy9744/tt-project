@@ -1,0 +1,10 @@
+# IDE files
+.idea/
+*.iml
+
+# Build directories
+/build/
+/out/
+
+# Dependency directories
+/node_modules/
