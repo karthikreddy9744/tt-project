@@ -8,8 +8,8 @@ import { StudyGroups } from './pages/StudyGroups';
 import { Files } from './pages/Files';
 import { Discussions } from './pages/Discussions';
 import { Sessions } from './pages/Sessions';
-import { Login } from './pages/Login';
-import { Register } from './pages/Register';
+import { Login } from './pages/login';
+import { Register } from './pages/register';
 import { LandingPage } from './pages/LandingPage';
 import { Profile } from './pages/Profile';
 
