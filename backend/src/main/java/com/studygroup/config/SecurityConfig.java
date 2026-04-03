@@ -53,6 +53,7 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowedOriginPatterns(List.of(
             frontendUrl,
+            "https://*.vercel.app",
             "http://localhost:5173",
             "http://192.168.0.101:5173",
             "http://127.0.0.1:5173"
